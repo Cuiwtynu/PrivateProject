@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <Kc id="1">
+        <name>K2389</name>
+        <passenger>12</passenger>
+        <price>300</price>
+    </Kc>
+    <Kc id="2">
+        <name>K2569</name>
+        <passenger>15</passenger>
+        <price>350</price>
+    </Kc>
+    <Kc id="3">
+        <name>K2698</name>
+        <passenger>20</passenger>
+        <price>500</price>
+    </Kc>
+    <Hc id="4">
+        <name>H7789</name>
+        <carry_size>2</carry_size>
+        <price>300</price>
+    </Hc>
+    <Hc id="5">
+        <name>H7389</name>
+        <carry_size>4</carry_size>
+        <price>400</price>
+    </Hc>
+    <Hc id="6">
+        <name>H7689</name>
+        <carry_size>3</carry_size>
+        <price>350</price>
+    </Hc>
+    <Pkc id="7">
+        <name>PK3389</name>
+        <carry_size>2</carry_size>
+        <passenger>5</passenger>
+        <price>400</price>
+    </Pkc>
+    <Pkc id="8">
+        <name>PK3689</name>
+        <carry_size>3</carry_size>
+        <passenger>3</passenger>
+        <price>380</price>
+    </Pkc>
+    <Pkc id="9">
+        <name>PK3989</name>
+        <carry_size>5</carry_size>
+        <passenger>2</passenger>
+        <price>500</price>
+    </Pkc>
+</cars>
